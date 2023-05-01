@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chefName": "John Doe",
-        "chefPicture": "https://example.com/chef/john-doe.jpg",
+        "chefPicture": "https://i.ibb.co/K7fBc7V/pngfind-com-chef-png-490541.png",
         "yearsOfExperience": 10,
         "numRecipes": 50,
         "likes": 10000,
@@ -49,7 +49,7 @@
       {
         "id": 2,
         "chefName": "Maria Rodriguez",
-        "chefPicture": "https://example.com/chef/maria-rodriguez.jpg",
+        "chefPicture": "https://i.ibb.co/59Lppp6/pngfind-com-chef-png-490103.png",
         "yearsOfExperience": 8,
         "numRecipes": 30,
         "likes": 7500,
@@ -96,7 +96,7 @@
       {
         "id": 3,
         "chefName": "Emma Wilson",
-        "chefPicture": "https://example.com/chef/emma-wilson.jpg",
+        "chefPicture": "https://i.ibb.co/wQSZ3Q8/pngfind-com-chef-png-489998.png",
         "yearsOfExperience": 8,
         "numRecipes": 30,
         "likes": 8000,
@@ -143,7 +143,7 @@
       {
         "id": 4,
         "chefName": "Michael Brown",
-        "chefPicture": "https://example.com/chef/michael-brown.jpg",
+        "chefPicture": "https://i.ibb.co/p3Jd0JM/pngfind-com-chef-png-489342.png",
         "yearsOfExperience": 12,
         "numRecipes": 70,
         "likes": 15000,
@@ -190,7 +190,7 @@
       {
         "id": 5,
         "chefName": "Sophie Johnson",
-        "chefPicture": "https://example.com/chef/sophie-johnson.jpg",
+        "chefPicture": "https://i.ibb.co/smtjdCR/chef1.png",
         "yearsOfExperience": 15,
         "numRecipes": 70,
         "likes": 15000,
@@ -252,7 +252,7 @@
       {
         "id": 6,
         "chefName": "Juan Rodriguez",
-        "chefPicture": "https://example.com/chef/juan-rodriguez.jpg",
+        "chefPicture": "https://i.ibb.co/Z8GFRff/pngfind-com-chef-png-998544.png",
         "yearsOfExperience": 12,
         "numRecipes": 45,
         "likes": 12000,
