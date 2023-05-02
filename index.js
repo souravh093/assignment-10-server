@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 const chefInfo = require("./data/chef-info.json")
 
 app.get("/", (req, res) => {
-    res.send("Server Running")
+    res.send("This is my chef server home page")
 })
 
 app.get("/chefinfo", (req, res) => {
